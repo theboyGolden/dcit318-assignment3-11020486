@@ -1,0 +1,15 @@
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.AssemblyInfoInputs.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.AssemblyInfo.cs
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.sourcelink.json
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\bin\Debug\net8.0\Warehouse-Management-System.exe
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\bin\Debug\net8.0\Warehouse-Management-System.deps.json
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\bin\Debug\net8.0\Warehouse-Management-System.runtimeconfig.json
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\bin\Debug\net8.0\Warehouse-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\bin\Debug\net8.0\Warehouse-Management-System.pdb
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\refint\Warehouse-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.pdb
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\Warehouse-Management-System.genruntimeconfig.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Warehouse-Management-System\obj\Debug\net8.0\ref\Warehouse-Management-System.dll
