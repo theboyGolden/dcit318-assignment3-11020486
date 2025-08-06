@@ -1,0 +1,25 @@
+STUDENT GRADE REPORT
+====================
+
+Abena Serwaa (ID: 101): Score = 85, Grade = A
+Kwame Mensah (ID: 102): Score = 72, Grade = B
+Adwoa Beauty (ID: 103): Score = 68, Grade = C
+Kofi Ansah (ID: 104): Score = 55, Grade = D
+Ama Nyamekye (ID: 105): Score = 42, Grade = F
+Yaw Boateng (ID: 106): Score = 91, Grade = A
+Akua Afriyie (ID: 107): Score = 77, Grade = B
+Kwasi Appiah (ID: 108): Score = 63, Grade = C
+Esi Asante (ID: 109): Score = 47, Grade = F
+Yaa Dansoa (ID: 110): Score = 96, Grade = A
+Kwabena Osei (ID: 111): Score = 71, Grade = B
+Afia Pokuaa (ID: 112): Score = 59, Grade = D
+Osei Kofi (ID: 113): Score = 82, Grade = A
+Akosua Agyeman (ID: 114): Score = 67, Grade = C
+Kwaku Frimpong (ID: 115): Score = 39, Grade = F
+Adjoa Twumwaa (ID: 116): Score = 88, Grade = A
+Baah Wiredu (ID: 117): Score = 65, Grade = C
+Efua Badu (ID: 118): Score = 73, Grade = B
+Ofori Atta (ID: 119): Score = 57, Grade = D
+Akua Serwaa (ID: 120): Score = 93, Grade = A
+
+Total students processed: 20
