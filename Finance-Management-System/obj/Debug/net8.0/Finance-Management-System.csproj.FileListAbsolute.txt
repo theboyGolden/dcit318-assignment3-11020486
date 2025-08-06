@@ -1,0 +1,14 @@
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\bin\Debug\net8.0\Finance-Management-System.exe
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\bin\Debug\net8.0\Finance-Management-System.deps.json
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\bin\Debug\net8.0\Finance-Management-System.runtimeconfig.json
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\bin\Debug\net8.0\Finance-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\bin\Debug\net8.0\Finance-Management-System.pdb
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.AssemblyInfoInputs.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.AssemblyInfo.cs
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\refint\Finance-Management-System.dll
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.pdb
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\Finance-Management-System.genruntimeconfig.cache
+C:\Users\PRECIOUS\Desktop\SCHOOL\DCIT318\dcit318-assignment3-11020486\Finance-Management-System\obj\Debug\net8.0\ref\Finance-Management-System.dll
